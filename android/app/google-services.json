@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "614657650405",
+    "project_id": "mariam-b761f",
+    "storage_bucket": "mariam-b761f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614657650405:android:ca75f89e8bb24382736e0c",
+        "android_client_info": {
+          "package_name": "com.example.mariamproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614657650405-eopc46k2qmgftfsdrphd38j6l5q0srnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqnq9BiNpKXRRISQcQrREwBfqRodCor_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614657650405-eopc46k2qmgftfsdrphd38j6l5q0srnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
